@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vineet also called the Yawning Buddha
+- 👋 Hi, I’m Vineet.
 - 👀 I’m interested in Web Dev and DSA
 - 🌱 I’m currently learning **********
 - 💞️ I’m looking to collaborate on git
