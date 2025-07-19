@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vineet.
 - 👀 I’m interested in Web Dev and DSA
-- 🌱 I’m currently learning **********
 - 💞️ I’m looking to collaborate on git
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Use dark mode cause light attracts bugs
